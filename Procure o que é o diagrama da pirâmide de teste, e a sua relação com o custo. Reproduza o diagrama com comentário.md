@@ -4,3 +4,5 @@ Uma pirâmide de testes é uma divisão (3 partes) para os testes; na base encon
 TESTES UI: (interface do usuário): em menor quantidade focando os fluxos principais do sistema e os feedbacks de interface, dado seu maior custo de desenvolvimento. 
 TESTES SERVIÇOS: para testar as chamadas de serviços e APIs.
 TESTES UNITARIOS: representam a maioria dos teste, eles devem ser rápidos e rodar em apenas alguns minutos.
+
+Nome: Cesar Ricardo B de Oliveira	RA:1801440
